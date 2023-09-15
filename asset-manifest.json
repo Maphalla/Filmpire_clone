@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Filmpire_clone/static/css/main.555347b3.css",
+    "main.js": "/Filmpire_clone/static/js/main.44ffa236.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Filmpire_clone/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/Filmpire_clone/index.html",
+    "static/media/search.svg": "/Filmpire_clone/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.555347b3.css.map": "/Filmpire_clone/static/css/main.555347b3.css.map",
+    "main.44ffa236.js.map": "/Filmpire_clone/static/js/main.44ffa236.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Filmpire_clone/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.555347b3.css",
+    "static/js/main.44ffa236.js"
+  ]
+}
